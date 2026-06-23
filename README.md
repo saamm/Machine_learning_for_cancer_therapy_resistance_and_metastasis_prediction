@@ -100,8 +100,8 @@ Loss = Reconstruction + β·KL + γ·Contrastive
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resistance-metastasis-ml.git
-cd resistance-metastasis-ml
+git clone https://github.com/YOUR_USERNAMEMachine_learning_for_cancer_therapy_resistance_and_metastasis_prediction.git
+cd Machine_learning_for_cancer_therapy_resistance_and_metastasis_prediction
 pip install -r requirements.txt
 ```
 
@@ -174,12 +174,12 @@ Patients stratified by predicted metastatic risk show highly significant differe
 If you use this code or find this work useful, please cite:
 
 ```
-@misc{resistance_metastasis_2024,
+@misc{resistance_metastasis_2026,
   title   = {Shared Molecular Programs Underlie Therapy Resistance and
              Metastatic Potential Across Cancer Types},
-  author  = {[Your Name]},
-  year    = {2024},
-  url     = {https://github.com/YOUR_USERNAME/resistance-metastasis-ml}
+  author  = {saamm},
+  year    = {2026},
+  url     = {https://github.com/saamm/Machine_learning_for_cancer_therapy_resistance_and_metastasis_prediction}
 }
 ```
 
